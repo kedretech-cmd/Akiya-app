@@ -1,0 +1,6 @@
+{
+  "name": "Akiya Web",
+  "description": "Hybrid mobile web application for akiya.pro.et and akmel.my.id featuring responsive layout, calling notifications, WebRTC camera/microphone access, and push notification management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

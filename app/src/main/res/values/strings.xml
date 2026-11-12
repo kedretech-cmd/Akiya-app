@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Akiya Web</string>
+    <string name="title_portal_akiya">Akiya (akiya.pro.et)</string>
+    <string name="title_portal_akmel">Akmel (akmel.my.id)</string>
+    <string name="portal_switch_desc">Switch Portal</string>
+    <string name="reload_desc">Reload Page</string>
+    <string name="fullscreen_desc">Toggle Fullscreen</string>
+    <string name="permissions_desc">App Permissions</string>
+    <string name="call_notification_channel_name">Incoming &amp; Active Calls</string>
+    <string name="call_notification_channel_desc">High-priority notifications for voice and video calls</string>
+    <string name="push_notification_channel_name">Web &amp; System Alerts</string>
+    <string name="push_notification_channel_desc">Push notifications and messages from web portals</string>
+    <string name="answer_call">Answer</string>
+    <string name="decline_call">Decline</string>
+    <string name="camera_permission_required">Camera permission is required for video calls and uploads</string>
+    <string name="audio_permission_required">Microphone permission is required for voice and video calling</string>
+    <string name="notification_permission_required">Notification permission is required to receive incoming call alerts</string>
+    <string name="grant_permission">Grant</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="test_call">Simulate Call</string>
+    <string name="connection_error_title">Connection Unavailable</string>
+    <string name="connection_error_desc">Could not connect to the server. Please check your internet connection or try the alternate portal.</string>
+    <string name="retry">Retry</string>
+    <string name="open_alternate">Open Alternate Portal</string>
+</resources>
